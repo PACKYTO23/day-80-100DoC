@@ -5,4 +5,4 @@ Day 80 - Advanced - The Tragic Discovery of Handwashing - t-Tests & Distribution
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (23/09/2024); update tomorrow.
-  
+    Finished practice (24/09/2024); updated.
